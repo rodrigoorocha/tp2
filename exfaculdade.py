@@ -1,4 +1,4 @@
-import os
+﻿import os
 import time
 import json
 from pprint import pprint
@@ -248,6 +248,7 @@ def Main():
     #questao4()
     #questao9()
     #questao9_b()
+    #questao13()
     questao18()
     
 if __name__ == '__main__':
